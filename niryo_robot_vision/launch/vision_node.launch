@@ -4,8 +4,8 @@
     <!-- Arguments -->
     <arg name="log_level" default="INFO" />
     <arg name="hardware_version" default="ned" />
-    <arg name="simulation_mode" default="false" />
-    <arg name="gazebo" default="false" />
+    <arg name="simulation_mode" default="true" />
+    <arg name="gazebo" default="true" />
     <arg name="client_stream_topic" value="~client_stream" />
 
 
